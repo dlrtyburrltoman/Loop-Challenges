@@ -44,4 +44,5 @@ for (var i = 100; i > 0; i--) {
         error += (i + " = ");
         console.log(error, correct);
     }
+    product()
 }
